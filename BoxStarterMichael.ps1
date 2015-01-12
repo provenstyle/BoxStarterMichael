@@ -23,3 +23,5 @@ cinst resharper
 cinst githubforwindows
 cinst markdownpad2
 cinst conemu
+cinst timrayburn.gitaliases
+cinst beyondcompare
