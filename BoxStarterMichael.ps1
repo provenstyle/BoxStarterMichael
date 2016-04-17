@@ -3,6 +3,7 @@ Enable-RemoteDesktop
 
 cinst googlechrome
 cinst sublimetext3
+cinst cmder
 cinst launchy
 cinst FoxitReader
 cinst sysinternals
@@ -12,7 +13,6 @@ cinst baretail
 cinst fiddler
 cinst linqpad4
 cinst filezilla
-cinst zoomit
 cinst putty
 cinst vim
 cinst poshgit
